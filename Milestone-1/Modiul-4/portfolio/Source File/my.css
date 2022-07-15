@@ -1,0 +1,73 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0%;
+}
+h1{
+  font-size: 45px;
+
+}
+span{
+  color: rgba(232, 122, 103, 0.941);
+}
+.prent-B{
+  display: flex;
+}
+.prent{
+  display: flex   ;
+}
+.child{
+  width: 50%;
+  padding-left: 2%;
+}
+.child img{
+  width: 85%;
+}
+.Hire-Button{
+  text-decoration: none;
+  padding: 10px 40px;
+  background-image: linear-gradient(orange,tomato);
+  border-radius: 8px;
+
+}
+.prent{
+  background-image: url(/images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.Download{
+  text-decoration: none;
+  background-image: linear-gradient(orange,tomato);
+  padding: 10px 50px;
+  border-radius: 8px;
+}
+.prent-B{
+ background-image: url(/images/dream-bg.png);
+ background-repeat: no-repeat;
+ background-position: right;
+}
+.c{
+  display: flex;
+  background-image: url(/images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  
+}
+.color{
+  color: orange;
+}
+.child-c{
+  box-shadow: 10px 10px 40px gray;
+  width: 40%;
+  margin: 5%;
+  padding: 2%
+}
+.Bcl{
+  border-radius: 4%;
+  border-left: 5px solid tomato;
+}
+.Bcr{
+  border-radius: 4%;
+  border-left: 5px solid blue;
+}
+footer{
+  text-align: center;
+}
